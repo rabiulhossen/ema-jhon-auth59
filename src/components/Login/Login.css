@@ -1,0 +1,45 @@
+.login-form {
+  box-sizing: border-box;
+  border: 2px, solid, gainsboro;
+  border-radius: 8px;
+  background-color: bisque;
+  width: 600px;
+  margin: auto, 0;
+  display: flex;
+  justify-content: center;
+}
+.form-input label {
+  display: block;
+  font-weight: 700;
+}
+.password-input label {
+  display: block;
+  font-weight: 700;
+}
+.form-input input {
+  width: 400px;
+  height: 45px;
+  border: none;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.password-input input {
+  width: 400px;
+  height: 45px;
+  border: none;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.submit-btn{
+    background-color: rgb(204, 247, 247);
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    width: 400px;
+    height: 30px;
+    margin-top: 20px;
+
+}
